@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ro3son
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Ro3son/Ro3son is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
